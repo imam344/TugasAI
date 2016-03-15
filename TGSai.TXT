@@ -1,2 +1,164 @@
-TUGAS
-AI
+Nama: Imam Maulana Ibsan
+Nim: 131114218
+Kelas: TP-B Pagi
+
+Kelas: TP-B Pagi
+Jawaban First Task Artificial Intelligence
+1.	Apakah anda setuju atau tidak dengan pendapat turing?
+a.	The Imitation Game
+
+Pada pendapat yang pertama ini dijelaskan bahwa bisakah mesin berpikir?
+Saya setuju. Jawaban dari pertanyaan tersebut adalah tidak sesuai dengan The Theological Objection yang menyatakan bahwa berpikir adalah jiwa abadi manusia.
+
+b.	Critique of the new problem
+
+Saya setuju. Pendapat yang kedua menjabarkan berbagai permasalahan baru yang terjadi ketika mesin berpikir sehingga komsekuensi dari mesin berpikir akan terlalu mengerikan.
+
+c.	The Machines Concerned in the Game
+
+Saya setuju. Pendapat yang ketiga menjelaskan bagaimana mesin peduli pada permainan. Namun tidak dapat memberikan hasil yang begitu baik dalam permainan .
+
+
+d.	Digital Computers
+
+Saya setuju. Pendapat yang keempat menyatakan bahwa komputer digital dapat dijelaskan dengan mengatakan bahwa mesin untuk melakukan operasi yang di lakukan manusia seharusnya mengikuti aturan.
+
+
+e.	Universality of Digital Computers
+
+Saya setuju. Pendapat yang kelima menyatakan komputer digital terus berkembang pada setiap negara tertentu
+
+	
+f.	Contrary Views on the Main Question
+
+Saya setuju. Pendapat keenam  adanya perbedaan pendapat ketika ada pertanyaan “ bisakah mesin berpikir”
+
+2.	Apalah menurut anda, akan ada komputer yang bisa melewati tes turing suatu saat?
+
+Saya melihat berita pada sebuah situs  “http://tekno.kompas.com/read/2014/06/09/1340004/lulus.ujian.komputer.kelabui.manusia”
+Ada sebuah komputer yang bisa melewati tes turing, namun belum bisa diartikan bahwa komputer telah mampu mengambil alih peranan manusia. Program Goostman hanya dilengkapi dengan kepribadian yang detil untuk meyakinkan para juri.
+
+
+
+
+3.	Halangan apa saja yang menurut anda menghambat perkembangan komputer untuk melewati tes turing?
+
+-kemampuan komputer  yang melebihi kemampuan manusia
+-tes turing yang tidak manusiawi
+-adanya kendala dalam pengembangan sebuah program
+
+
+4.	Jelaskan istilah pada bidang AI serta berikan beberapa contoh implementasi untuk msing-masing sub bidang tersebut 
+
+-Pengolahan Bahasa Alami: merupakan cabang ilmu komputer dan linguistik yang mengkaji interaksi antara komputer dengan bahasa (alami) manusia dan sering dianggap sebagai cabang dari kecerdasan buatan dan bidang kajiannya bersinggungan dengan linguistik komputasional.
+Contoh implementasi antara lain:
+1.	Segmentasi tuturan	 	(speech segmentation)
+2.	Segmentasi teks       		(text segmentation)
+3.	Penandaan kelas kata 	(part-of-speech tagging)
+4.	Pengawasan makna 		(word sense disambiguation)
+
+-Knowledge  representation : suatu proses untuk menangkap sifat-sifat penting problema dan membuat informasi tersebut dapat diakses oleh prosedur pemecahan masalah.
+Contoh implementasi:
+1.	Object – atribut – value (OAV) triplet
+2. Rules
+3. Semantic Network
+4. Frame
+5. Predicate Logic
+6. Fuzzy Representation
+
+-	Automated Reasoning  : merupakan ilmu komputer dan logika matematika yang didedikasikan untuk memahami berbagai aspek penalaran .Studi penalaran otomatis membantu menghasilkan program komputer yang memungkinkan komputer untuk alasan sepenuhnya, atau hampir sepenuhnya, secara otomatis. Meskipun penalaran otomatis dianggap sebagai sub-bidang kecerdasan buatan , juga memiliki hubungan teori ilmu komputer , dan bahkan filsafat .
+Contoh implementasi:
+logika klasik dan bate, logika fuzzy, inferensi Bayesian, penalaran dengan entropimaksimal dan sejumlah besar teknik yang kurang formal ad hoc.
+
+-	Machine Learning : merupakan cabang dari kecerdasan buatan  adalah disiplin ilmu yang mencakup perancangan dan pengembangan algoritma yang memungkinkan komputer untuk mengembangkan perilaku yang didasarkan pada data empiris, seperti dari sensor data basis data. Sistem pembelajar dapat memanfaatkan contoh (data) untuk menangkap ciri yang diperlukan dari probabilitas yang mendasarinya (yang tidak diketahui). Data dapat dilihat sebagai contoh yang menggambarkan hubungan antara variabel yang diamati. Fokus besar penelitian pembelajaran mesin adalah bagaimana mengenali secara otomatis pola kompleks dan membuat keputusan cerdas berdasarkan data. Kesukarannya terjadi karena himpunan semua peri laku yang mungkin, dari semua masukan yang dimungkinkan, terlalu besar untuk diliput oleh himpunan contoh pengamatan (data pelatihan). Karena itu pembelajar harus merampatkan (generalisasi) perilaku dari contoh yang ada untuk menghasilkan keluaran yang berguna dalam kasus-kasus baru.
+
+
+
+-	Contoh implementasi:
+-	Machine perception
+-	Computer vision, including object recognition
+-	Natural language processing
+-	Syntactic pattern recognition
+-	Machine learning
+-	Medical diagnosis
+-	Bioinformatics
+-	Brain-machine interfaces
+-	Cheminformatics
+-	Detecting credit card fraud
+-	Stock market analysis
+-	Classifying DNA sequences
+-	Sequence mining
+-	Speech and handwriting recognition
+-	Games
+-	Software engineering
+-	Adaptive websites
+-	Robot locomotion
+-	Computational advertising
+-	Computational finance
+-	Structural health monitoring
+-	Sentiment analysis (or opinion mining)
+-	Affective computing
+-	Menerima Informasi
+-	Recommender systems
+
+-	Computer Vision : ilmu dan teknologi mesin yang melihat, di mana mesin mampu mengekstrak informasi dari gambar yang diperlukan untuk menyelesaikan tugas tertentu. Sebagai suatu disiplin ilmu, visi komputer berkaitan dengan teori di balik sistem buatan bahwa ekstrak informasi dari gambar. Data gambar dapat mengambil banyak bentuk, seperti urutan video, pandangan dari beberapa kamera, atau data multi-dimensi dari scanner medis. Sedangkan sebagai disiplin teknologi, computer vision berusaha untuk menerapkan teori dan model untuk pembangunan sistem computer vision.
+
+Contoh Implementasi:
+1. Bidang Pertahanan dan Keamanan (Militer).
+
+Contoh jelas adalah deteksi tentara musuh atau kendaraan dan bimbingan rudal. Lebih sistem canggih untuk panduan mengirim rudal rudal ke daerah daripada target yang spesifik,dan pemilihan target yang dibuat ketika rudal mencapai daerah berdasarkan data citradiperoleh secara lokal. 
+
+2. Bidang Didalam kendaraan Otonom.
+
+Kendaraan otonom, yang meliputi submersibles, kendaraan darat (robot kecil dengan roda, mobil atau truk), kendaraan udara, dan kendaraan udara tak berawak (UAV). Tingkat berkisar otonomi dari sepenuhnya otonom (berawak) kendaraan untuk kendaraan dimana sistem visi berbasis komputer mendukung driver atau pilot dalam berbagai situasi.
+
+
+
+
+
+3. Bidang Industri.
+
+Kadang-kadang disebut visi mesin, dimana informasi ini diekstraksi untuk tujuan mendukung proses manufaktur. Salah satu contohnya adalah kendali mutu dimana rincian atau produk akhir yang secara otomatis diperiksa untuk menemukan cacat. 
+
+4. Bidang pengolahan citra medis.
+
+Daerah ini dicirikan oleh ekstraksi informasi dari data citra untuk tujuan membuat diagnosis medis pasien. Secara umum, data citra dalam bentuk gambar mikroskop, gambar X-ray, gambar angiografi, gambar ultrasonik, dan gambar tomografi. 
+
+5. Bidang Neurobiologi.
+
+Khususnya studi tentang sistem biological vision Selama abad terakhir, telah terjadi studi ekstensif dari mata, neuron, dan struktur otak dikhususkan untuk pengolahan rangsangan visual pada manusia dan berbagai hewan. 
+6. Bidang Industri Perfilman
+
+Efek di dunia akting , animasi, dan penyotingan adegan film semua direkam dengan perangkat elektronik yang dihubungkan dengan komputer. 
+
+7. Bidang Kecerdasan Buatan.
+
+Keterkaitan dengan perencanaan otonom atau musyawarah untuk sistem roboticaluntuk menavigasi melalui lingkungan. Pemahaman yang rinci tentang lingkungan inidiperlukan untuk menavigasi melalui mereka. 
+
+8. Bidang Pemrosesan Sinyal.
+
+Banyak metode untuk pemrosesan sinyal satu-variabel, biasanya sinyal temporal,dapat diperpanjang dengan cara alami untuk pengolahan sinyal dua variabel atau sinyalmulti-variabel dalam visi komputer. 
+
+9. Bidang Fisika.
+
+Fisika merupakan bidang lain yang terkait erat dengan Computer vision. sistem Computervision bergantung pada sensor gambar yang mendeteksi radiasi elektromagnetik yang biasanya dalam bentuk baik cahaya tampak atau infra-merah sensor dirancang dengan mengunakan fisika solid-state.
+
+10. Bidang matematika murni.
+
+Sebagai contoh, banyak metode dalam visi komputer didasarkan pada statistik, optimasi atau geometri. 
+
+
+
+-	Robotika : ilmu dan teknologi yang mempelajari tentang robot, mulai dari desainnya, produksinya, sampai aplikasinya. Ilmu robotika menggabungkan pengetahuan di bidang elektronika, mekanika, dan ilmu perangkat lunak, ditambah dengan berbagai ilmu dari bidang lainnya.
+Contoh implementasi:
+Sony AIBO
+Robot Humanoid Honda 
+Robot Vacum Cleaner
+
+
+
+
+
+
+
+
